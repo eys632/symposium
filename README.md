@@ -7,7 +7,7 @@
 
 ## 📘 내가 공부 중인 책
 
-<img src="[./img/linear_algebra_book.jpg](https://cafe24.poxo.com/ec01/bookvagc/HOvhRhvOk+Cp2KY4JuusAuEdaAQUCeQT2PmmrtXhFZ+iO3z6kfJAQJHzh86iW7S9ypKh3jGct5shmlyeYk7gxQ==/_/web/product/big/202304/db6e6b523ffc354557aaf3b4e4bf0191.jpg)" alt="선형대수학 책" width="300"/>
+<img src="https://cafe24.poxo.com/ec01/bookvagc/HOvhRhvOk+Cp2KY4JuusAuEdaAQUCeQT2PmmrtXhFZ+iO3z6kfJAQJHzh86iW7S9ypKh3jGct5shmlyeYk7gxQ==/_/web/product/big/202304/db6e6b523ffc354557aaf3b4e4bf0191.jpg" alt="선형대수학 책"/>
 
 - **책 제목**: Linear Algebra and Its Applications (6th Edition)
 - **저자**: David C. Lay
