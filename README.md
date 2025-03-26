@@ -11,7 +11,7 @@
 
 - **책 제목**: Linear Algebra and Its Applications (6th Edition)
 - **저자**: David C. Lay
-- **진행 중인 내용**: Chapter 1.5까지 완료
+- **진행 중인 내용**: Chapter 1까지 봄 (1.5 이해중)
 
 ---
 
