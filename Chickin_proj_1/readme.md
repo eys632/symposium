@@ -64,9 +64,9 @@ dead_candidates_*.csv
 
 ```bash
 python detect_dead_chickens.py
+```
 ✅ GPU 자원을 효율적으로 활용하고 싶다면,
 CUDA_VISIBLE_DEVICES 옵션을 통해 각 영역을 병렬 실행할 수 있습니다.
-```
 
 ## 8. 🛠️ 사용 기술
 
